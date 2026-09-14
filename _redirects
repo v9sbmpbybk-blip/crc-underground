@@ -1,0 +1,12 @@
+# Redirect rules for Netlify routing
+/product/grey-zip-hoodie /grey-zip-hoodie.html 200
+/product/raw-tshirt /raw-tshirt.html 200
+/shop /index.html#shop 200
+/collections /index.html#collections 200
+/about /index.html#about 200
+/reach /index.html#reach 200
+/core /index.html#core 200
+/raw /index.html#raw 200
+
+# Single Page Application routing
+/* /index.html 200
